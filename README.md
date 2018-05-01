@@ -1,3 +1,3 @@
 # bestrepoever
 
-I am adding some content to the ReadMe file for the bestrepoever.
+I am adding text to the ReadMe file for the bestrepoever.
